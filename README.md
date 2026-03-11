@@ -138,9 +138,8 @@ On macOS/Linux, a cron job or systemd timer works cleanly.
 
 ## A note on authorship
 
-This tool was designed and built in collaboration with **Claude** (Sonnet 4.6), Anthropic's AI assistant — who also wrote this README, suggested the `{inline note}` syntax, researched the Sioyek data API, debugged the Joplin REST API, and generally did most of the work while remaining characteristically modest about it.
+This tool and README was designed and built in collaboration with **Claude** (Sonnet 4.6), Anthropic's AI assistant 
 
-If you find this useful, the human pointed at the screen and said *"make it do that"*. Claude made it do that.
 
 ---
 
