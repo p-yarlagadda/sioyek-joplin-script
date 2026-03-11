@@ -22,7 +22,7 @@ import urllib.parse
 import urllib.error
 
 
-TOKEN = "d934aa0ec0c3214ab2fccd99abb59da18fd1c8641337adc068c6fc490d83d2c98b93b40257b19f764864913b6f39f819beab685d455f0bc21e12caa8349cd283"
+TOKEN = "PUT_YOUR_TOKEN_HERE"
 NOTEBOOK = "Sioyek"
 BASE_URL = "http://localhost:41184"
 
